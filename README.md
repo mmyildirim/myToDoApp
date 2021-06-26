@@ -1,6 +1,7 @@
 # myToDoApp
 ##Yapılacak Listem<br/><br/>
 **-Kullanıcını günlük planını *ajanda* gibi veri girmesini ve tutmasını sağlayan**<br/><br/>
+**-Bootstrap kullanarak oluşturduğum**
 **-Bigileri LocalStoragede saklayan**<br/><br/>
 ![AppView](https://github.com/mmyildirim/myToDoApp/blob/main/myToDo-view.png)<br/><br/>
 **-Kullanıcı dilediği zaman tüm listeyi silebilir**<br/><br/>
